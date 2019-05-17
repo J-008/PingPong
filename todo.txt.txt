@@ -1,0 +1,5 @@
+-responsywnoœæ
+-opcje
+-dorobic powroty na przycisk(????)
+-build na adroida
+-gui(?)
