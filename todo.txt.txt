@@ -1,5 +1,7 @@
--responsywnoœæ
+-responsywnoÅ›Ä‡
 -opcje
 -dorobic powroty na przycisk(????)
 -build na adroida
 -gui(?)
+
+https://docs.unity3d.com/Manual/HOWTO-UIMultiResolution.html
